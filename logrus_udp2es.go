@@ -1,7 +1,7 @@
 package logrus_udp2es
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"net"
 	"fmt"
 	"time"
