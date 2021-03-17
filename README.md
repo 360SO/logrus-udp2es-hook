@@ -7,7 +7,7 @@
 ```go
 import (
     "github.com/sirupsen/logrus"
-    "github.com/h1z3y3/logrus-udp2es-hook"
+    "github.com/360SO/logrus-udp2es-hook"
 )
 
 func main() {
